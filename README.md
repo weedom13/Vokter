@@ -1,2 +1,2 @@
 # Vokter
-vestjystvokter for tha people
+vestkystvokter for tha people
